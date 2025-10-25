@@ -160,7 +160,8 @@ head <file_name>
 
 **Output:**
 
-![alt text](image-11.png)
+<img width="192" height="86" alt="image" src="https://github.com/user-attachments/assets/3446dc07-ce85-4c8d-a5e5-461e4815515e" />
+
 
 ### 13. `tail` Command
 
@@ -173,7 +174,8 @@ tail <file_name>
 
 **Output:**
 
-![alt text](image-12.png)
+<img width="191" height="83" alt="image" src="https://github.com/user-attachments/assets/7ea0d15f-3bbf-4e1c-8437-89d8f525d158" />
+
 
 ### 14. `id` Command
 
@@ -186,7 +188,8 @@ id
 
 **Output:**
 
-![alt text](image-13.png)
+<img width="344" height="28" alt="image" src="https://github.com/user-attachments/assets/66bf123f-1a21-4474-83eb-957f401fd021" />
+
 
 ### 15. `grep` Command
 
@@ -199,191 +202,8 @@ command | grep <search_word>
 
 **Output:**
 
-![alt text](image-14.png)
+<img width="230" height="22" alt="image" src="https://github.com/user-attachments/assets/8fb3d9a6-9d2e-45da-9733-041dee31bd10" />
 
-### 16. `tr` Command
-
-The `tr` command is used to translate or delete characters.
-
-**Syntax:**
-```bash
-command | tr <old> <new>
-```
-
-**Output:**
-
-![alt text](image-15.png)
-
-### 17. `chmod` Command
-
-The `chmod` command is used to change the access mode (permissions) of a file.
-
-**Syntax:**
-```bash
-chmod <options> <permissions> <file_name>
-```
-
-**Output:**
-
-![alt text](image-16.png)
-
-### 18. `tar` Command
-
-The `tar` command is used to create or extract archive files.
-
-**Syntax:**
-```bash
-tar [options] [archive-file] [files_to_archive]
-```
-
-**Output:**
-
-![alt text](image-17.png)
-
-### 19. `chown` Command
-
-The `chown` command is used to change the ownership of a file.
-
-**Syntax:**
-```bash
-chown <owner_name> <file_name>
-```
-
-**Output:**
-
-![alt text](image-18.png)
-
-### 20. `make` Command
-
-The `make` command is used to build and maintain groups of programs.
-
-**Syntax:**
-```bash
-make [-f makefile] [options] [targets]
-```
-
-**Output:**
-
-![alt text](image-19.png)
-
-### 21. `ifconfig` Command
-
-The `ifconfig` command is used to configure network interfaces.
-
-**Syntax:**
-```bash
-ifconfig [options] [interface]
-```
-
-**Output:**
-
-![alt text](image-20.png)
-
-
-
-### 22. `host` Command
-
-The `host` command is used to display the IP address for a given domain name.
-
-**Syntax:**
-```bash
-host <domain_name> or <ip_address>
-```
-
-**Output:**
-
-![alt text](image-21.png)
-
-### 23. `gzip` Command
-
-The `gzip` command is used to compress files, replacing the original file with a compressed one with a `.gz` extension.
-
-**Syntax:**
-```bash
-gzip <file1> <file2> <file3>...
-```
-
-**Output:**
-
-![alt text](image-22.png)
-
-### 24. `sort` Command
-
-The `sort` command is used to sort the contents of a file alphabetically.
-
-**Syntax:**
-```bash
-sort <file_name>
-```
-
-**Output:**
-
-![alt text](image-23.png)
-
-### 25. `cal` Command
-
-The `cal` command displays the current month's calendar with the current date highlighted.
-
-**Syntax:**
-```bash
-cal
-```
-
-**Output:**
-
-![alt text](image-24.png)
-
-### 26. `clear` Command
-
-The `clear` command clears the terminal screen.
-
-**Syntax:**
-```bash
-clear
-```
-
-**Output:**
-
-![alt text](image-25.png)
-
-### 27. `mail` Command
-
-The `mail` command is used to send emails from the command line.
-
-**Syntax:**
-```bash
-mail
-```
-
-**Output:**
-
-![alt text](image-26.png)
-
-### 28. `df` Command
-
-The `df` command displays the disk space usage of file systems.
-
-**Syntax:**
-```bash
-df
-```
-
-**Output:**
-
-![alt text](image-27.png)
-
-### 29. `find` Command
-
-The `find` command is used to search for files in a directory hierarchy.
-
-**Syntax:**
-```bash
-find <directory> -name <file_name>
-```
-
-**Output:**
-
-![alt text](image-28.png)
 
 ## Result
 All basic and advanced operations were successfully performed through appropriate Linux commands, with the system responding accurately to each, confirming correct execution and expected behavior, thereby demonstrating the effectiveness and reliability of the Linux command-line interface for comprehensive system management.
