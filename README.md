@@ -160,7 +160,7 @@ head <file_name>
 
 **Output:**
 
-<img width="192" height="86" alt="image" src="https://github.com/user-attachments/assets/3446dc07-ce85-4c8d-a5e5-461e4815515e" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3446dc07-ce85-4c8d-a5e5-461e4815515e" />
 
 
 ### 13. `tail` Command
@@ -174,7 +174,7 @@ tail <file_name>
 
 **Output:**
 
-<img width="191" height="83" alt="image" src="https://github.com/user-attachments/assets/7ea0d15f-3bbf-4e1c-8437-89d8f525d158" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7ea0d15f-3bbf-4e1c-8437-89d8f525d158" />
 
 
 ### 14. `id` Command
@@ -188,7 +188,7 @@ id
 
 **Output:**
 
-<img width="344" height="28" alt="image" src="https://github.com/user-attachments/assets/66bf123f-1a21-4474-83eb-957f401fd021" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/66bf123f-1a21-4474-83eb-957f401fd021" />
 
 
 ### 15. `grep` Command
@@ -202,7 +202,7 @@ command | grep <search_word>
 
 **Output:**
 
-<img width="230" height="22" alt="image" src="https://github.com/user-attachments/assets/8fb3d9a6-9d2e-45da-9733-041dee31bd10" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8fb3d9a6-9d2e-45da-9733-041dee31bd10" />
 
 
 ## Result
